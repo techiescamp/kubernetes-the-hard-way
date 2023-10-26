@@ -18,7 +18,7 @@ Verify the AWS CLI version using:
 aws --version
 ```
 
-### Set a Default Compute Region and Zone Configure Default Region and Credentials using AWS CLI
+### Set a Default Compute Region and Credentials using AWS CLI
 
 Run `aws configure` and provide the following information.
 * AWS Access Key ID
